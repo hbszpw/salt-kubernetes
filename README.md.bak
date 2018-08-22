@@ -257,5 +257,3 @@ linux-node4:
 - [创建第一个K8S应用](docs/app.md)
 - [CoreDNS和Dashboard部署](docs/dashboard.md)
 
-2018年8月22日
-
